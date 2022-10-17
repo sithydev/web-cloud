@@ -1,2 +1,2 @@
-### SITHFUN Cloud v1.0
-### Web server offline... :(
+### SITHFUN™ Cloud
+### There is at this moment, 1 cloud on the entirety of SITHFUN™ Cloud.
