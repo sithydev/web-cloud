@@ -1,2 +1,2 @@
-### SITHFUN™ Cloud
-### There is at this moment, 1 cloud on the entirety of SITHFUN™ Cloud.
+### Hexagon
+### There is at this moment, 1 "Hex" on the entirety of Hexagon.
