@@ -1,2 +1,2 @@
-### Hexagon
-### There is at this moment, 1 "Hex" on the entirety of Hexagon.
+## Hexagon v1.0.0
+### WOOO!! RELEASE!!!!
